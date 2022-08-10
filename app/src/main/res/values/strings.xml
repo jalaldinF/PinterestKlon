@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">App Pinterest</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint"><font size="16">Search by name or email address</font></string>
+    <string name="for_more_inform">for more inform</string>
+    <string name="_10k_followers">10k followers</string>
+    <string name="follow">Follow</string>
+    <string name="view">View</string>
+    <string name="save">Save</string>
+    <string name="share_icon">Share icon</string>
+    <string name="comments">Comments</string>
+    <string name="love_this_pin_let">Love this Pin? Let</string>
+    <string name="add_a_comment">Add a comment</string>
+    <string name="more_like_this">More like this</string>
+    <string name="back">back</string>
+    <string name="nickname">diyorbekshukriddinov</string>
+    <string name="name">Diyor Shukriddinov</string>
+    <string name="folows">0 followers · 0 following</string>
+    <string name="search_your_pins">Search your Pins</string>
+    <string name="add">add</string>
+    <string name="search_for_ideas">Search for ideas</string>
+    <string name="ideas_for_you">Ideas for you</string>
+    <string name="fireplace_design">Fireplace design</string>
+    <string name="nature_photography">Nature photography</string>
+    <string name="landscape_photography">Landscape photography</string>
+    <string name="beautiful_places">Beautiful places</string>
+    <string name="popular_on_pinterest">Popular on Pinterest</string>
+    <string name="cancel">Cancel</string>
+    <string name="notification_icon">notification icon</string>
+    <string name="nothing_to_see_here">Nothing to see here</string>
+    <string name="notification_text">It looks like you don\'t have any new\n comments. Edit your filter to see\n different updates, or publish new ideas\n to get more engagement!</string>
+    <string name="reset_filter">Reset filter</string>
+    <string name="photo">Photo</string>
+    <string name="d">D</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="share_ideas_with_your_friends">Share ideas with your friends</string>
+    <string name="friend_contacts">friend contacts</string>
+    <string name="sync_contacts">Sync contacts</string>
+</resources>
